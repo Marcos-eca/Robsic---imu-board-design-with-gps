@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Blue_pill)(type KiCad)(uri ${KIPRJMOD}/IMU_GPS_Blue_Pill/Kicad-STM32-master/Footprints)(options "")(descr ""))
+  (lib (name LM117IMPX3.3)(type KiCad)(uri "${KIPRJMOD}/IMU_GPS_Blue_Pill/Kicad-STM32-master/LM1117IMPX-3.3_NOPB(1)")(options "")(descr ""))
+)
