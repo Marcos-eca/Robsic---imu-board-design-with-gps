@@ -1,6 +1,6 @@
 # Módulo GPS-IMU.
 
-## Representação 2d e 3d da placa
+## Representação 2d e 3d da placa.
 
 <p align="left" width="100%">
   <img width="30%" src="image/pcb.png">
@@ -8,7 +8,7 @@
 </p>
 
 
-## Elementos principais para a confecção da placa:
+## Elementos principais para a confecção da placa.
 
 * GPS e IMU - OpenIMU300ZI.
 * Esquematico do regulador de tensão fornecido pelo texas instruments no datasheet do LM1117.
