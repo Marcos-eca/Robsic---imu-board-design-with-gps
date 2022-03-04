@@ -1,4 +1,4 @@
-# Modulo GPS-IMU
+# Módulo GPS-IMU.
 
 ## Representação 2d e 3d da placa
 
