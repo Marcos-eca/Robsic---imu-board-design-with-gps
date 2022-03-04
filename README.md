@@ -27,6 +27,7 @@
     <img width="30%" height=340 src="image/info_pin_2.png">
 </p>
 
-## Observações quanto a alimentação, conexão das portas seriais e o seletor de interface (pin_7 - comunicação UART/SPI).
-
+## Informações sobre a alimentação, conexão das portas seriais e o seletor de interface (pin_7 - comunicação UART/SPI).
+<p align="center">
 <img src="image/obs.png"  width=450 height=350>
+</p>
