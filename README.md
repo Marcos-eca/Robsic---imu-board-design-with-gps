@@ -3,17 +3,20 @@
 ## Representação 2d e 3d da placa
 
 <p align="left" width="100%">
-  <img width="30%" src="image/pcb.png" width=350>
-  <img width="30%" src="image/pcb_3d.png" width=350>
+  <img width="30%" src="image/pcb.png">
+  <img width="30%" src="image/pcb_3d.png">
 </p>
 
 
 ## Elementos principais para a confecção da placa:
 
 * GPS e IMU - OpenIMU300ZI.
+* Esquematico do regulador de tensão fornecido pelo texas instruments no datasheet do LM1117.
+
 <p align="left" width="100%">
-  <img width="30%" src="image/gps.jpg" width=350>
-  <img width="30%" src="image/imu.png" width=350>
+  <img width="30%" src="image/gps.jpg">
+  <img width="30%" src="image/imu.png">
+   <img width="30%" src="image/voltage_regulator.png">
 </p>
 
 ## Connector e tabela de informações sobre a função de cada pino do IMU.
@@ -27,14 +30,3 @@
 ## Observações quanto a alimentação, conexão das portas seriais e o seletor de interface (pin_7 - comunicação UART/SPI).
 
 <img src="image/obs.png"  width=450 height=350>
-
-
-* Esquematico do regulador de tensão fornecido pelo texas instruments no datasheet do LM1117.
-
-<img src="image/voltage_regulator.png" width=350>
-
-
-## Problema do carrinho não visivel no gazebo
-
-
-
