@@ -16,7 +16,7 @@
 <p align="center" width="100%">
   <img width="30%" src="image/gps.jpg">
   <img width="30%" src="image/imu.png">
-   <img width="35%" height=260 src="image/voltage_regulator.png">
+   <img width="35%" src="image/voltage_regulator.png">
 </p>
 
 ## Connector e tabela de informações sobre a função de cada pino do IMU.
@@ -24,7 +24,7 @@
 <p align="center" width="100%">
     <img width="30%" src="image/interface_conn.png">
     <img width="30%" src="image/info_pin_1.png">
-    <img width="30%" height=340 src="image/info_pin_2.png">
+    <img width="30%" src="image/info_pin_2.png">
 </p>
 
 ## Informações sobre a alimentação, conexão das portas seriais e o seletor de interface (pin_7 - comunicação UART/SPI).
