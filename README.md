@@ -13,10 +13,10 @@
 * GPS e IMU - OpenIMU300ZI.
 * Esquematico do regulador de tensão fornecido pelo texas instruments no datasheet do LM1117.
 
-<p align="left" width="100%">
+<p align="center" width="100%">
   <img width="30%" src="image/gps.jpg">
   <img width="30%" src="image/imu.png">
-   <img width="30%" src="image/voltage_regulator.png">
+   <img width="35%" height=260 src="image/voltage_regulator.png">
 </p>
 
 ## Connector e tabela de informações sobre a função de cada pino do IMU.
